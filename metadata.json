@@ -1,0 +1,6 @@
+{
+  "name": "MedPulse - Online Doctor Appointment System",
+  "description": "Comprehensive online doctor appointment booking platform with real-time slot scheduling, patient records, and doctor portal management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
